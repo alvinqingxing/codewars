@@ -1,2 +1,1 @@
-# Codewars solutions
-Solutions for various Codewars katas
+These are my solutions for various Codewars katas
